@@ -1,4 +1,4 @@
-/* eslint-disable import/no-extraneous-dependencies, @typescript-eslint/no-var-requires */
+/* eslint-disable import/no-extraneous-dependencies */
 
 const {setHeadlessWhen, setCommonPlugins} = require('@codeceptjs/configure');
 // Turn on headless mode when running with HEADLESS=true environment variable
